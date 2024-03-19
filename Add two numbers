@@ -1,0 +1,12 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+main()
+{
+int a,b;
+int sum;
+a=7,b=8;
+sum=a+b;
+cout<<"sum of two numbers"<<"="<<sum;
+getch();
+}
